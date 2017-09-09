@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/Cub</item>
+        <item name="colorPrimaryDark">@color/Cub</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="CustomDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/dialogcorners</item>
+        <item name="android:textColor">#000</item>
+    </style>
+    <style name="toolbarTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:background">@color/CUBII</item>
+        <item name="android:colorPrimaryDark">@color/Cub</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+</resources>

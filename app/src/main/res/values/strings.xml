@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CubiiBlut</string>
+    <integer-array name="img_id_arr">
+        <item>@drawable/image1</item>
+        <item>@drawable/image2</item>
+
+    </integer-array>
+    <string name="description">Description</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="products">Products</string>
+    <string name="mail">Mail</string>
+    <string name="website">WebSite</string>
+    <string name="Phone">Phone</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="login_butt">Login</string>
+</resources>
